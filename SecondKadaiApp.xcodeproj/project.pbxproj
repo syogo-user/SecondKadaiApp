@@ -13,6 +13,7 @@
 		3D5193D823BB2B6800E20DAF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D5193D623BB2B6800E20DAF /* Main.storyboard */; };
 		3D5193DA23BB2B6A00E20DAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D5193D923BB2B6A00E20DAF /* Assets.xcassets */; };
 		3D5193DD23BB2B6A00E20DAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D5193DB23BB2B6A00E20DAF /* LaunchScreen.storyboard */; };
+		3D5193E523BB32F200E20DAF /* ResultNameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5193E423BB32F200E20DAF /* ResultNameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3D5193D923BB2B6A00E20DAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D5193DC23BB2B6A00E20DAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D5193DE23BB2B6A00E20DAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D5193E423BB32F200E20DAF /* ResultNameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultNameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3D5193D023BB2B6800E20DAF /* AppDelegate.swift */,
 				3D5193D223BB2B6800E20DAF /* SceneDelegate.swift */,
 				3D5193D423BB2B6800E20DAF /* ViewController.swift */,
+				3D5193E423BB32F200E20DAF /* ResultNameViewController.swift */,
 				3D5193D623BB2B6800E20DAF /* Main.storyboard */,
 				3D5193D923BB2B6A00E20DAF /* Assets.xcassets */,
 				3D5193DB23BB2B6A00E20DAF /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D5193E523BB32F200E20DAF /* ResultNameViewController.swift in Sources */,
 				3D5193D523BB2B6800E20DAF /* ViewController.swift in Sources */,
 				3D5193D123BB2B6800E20DAF /* AppDelegate.swift in Sources */,
 				3D5193D323BB2B6800E20DAF /* SceneDelegate.swift in Sources */,
